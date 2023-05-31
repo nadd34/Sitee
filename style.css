@@ -1,3 +1,6 @@
+* {
+  transition: all .1s;
+}
 .yellow-text {
     color: rgb(158, 158, 18);
     text-align: left;
